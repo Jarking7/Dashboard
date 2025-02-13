@@ -87,5 +87,5 @@ In the end, I obtained an **interactive dashboard** with visualizations that all
 
 ![dashboard](https://github.com/user-attachments/assets/0cbdf544-8076-494f-8ea8-e93b46eb7ead)
 
-
+https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/b203272a-b866-4513-9440-91df07da9b62
 
