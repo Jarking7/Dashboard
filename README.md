@@ -42,6 +42,7 @@ El objetivo de este proyecto es realizar un análisis visual sobre los ingresos 
 Al final, se obtuvo un **dashboard interactivo** con visualizaciones que permiten explorar el dataset de los 100 atletas mejor pagados. El reporte también está disponible en formato **PDF**.
 ![dashboard](https://github.com/user-attachments/assets/b0c3b30c-b497-4e38-b80f-d30b175536b0)
 
+https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/b203272a-b866-4513-9440-91df07da9b62
 
 # Dashboard: Analysis of the 100 Highest Paid Athletes in the World
 
